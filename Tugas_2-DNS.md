@@ -9,9 +9,9 @@ Infrastruktur memanfaatkan jaringan virtual **VPN Tailscale** untuk menghubungka
 
 | Peran | Nama Anggota | NPM | Tanggung Jawab Teknis |
 |--------|-------------|-----|-----------------------|
-| **Anggota 1** | Nama Lengkap Anggota 1 | NPM Anggota 1 | DNS Server (Linux + VestaCP) |
-| **Anggota 2** | Nama Lengkap Anggota 2 | NPM Anggota 2 | Web Server (Linux + Apache + PHP) |
-| **Anggota 3** | Nama Lengkap Anggota 3 | NPM Anggota 3 | Database Server (Linux + MySQL/PgSQL) |
+| **Anggota 1** | Firman Farel Richardo | 2315061099 | DNS Server (Linux + VestaCP) |
+| **Anggota 2** | Muhammad Farhan | 2315061083 | Web Server (Linux + Apache + PHP) |
+| **Anggota 3** | Arza Restu Arjuna | 2315061051 | Database Server (Linux + MySQL/PgSQL) |
 
 ---
 
