@@ -15,7 +15,7 @@ Infrastruktur memanfaatkan jaringan virtual **VPN Tailscale** untuk menghubungka
 
 ---
 
-# 🏗️ Topologi & Arsitektur Jaringan (Tugas 1)
+# 🏗️ Topologi & Arsitektur Jaringan
 
 Ketiga server dijalankan pada mesin virtual (**VirtualBox**) lokal masing-masing anggota.  
 Karena tiap server berada di jaringan/lokasi berbeda dan menggunakan NAT, digunakan **Tailscale** sebagai solusi **Overlay Mesh VPN**.
@@ -50,7 +50,7 @@ Dengan Tailscale:
 
 ---
 
-# 🌍 Konfigurasi DNS Server (Tugas 2)
+# 🌍 Konfigurasi DNS Server
 
 Tahap kedua difokuskan pada aktivasi DNS dan konfigurasi zona domain menggunakan:
 
