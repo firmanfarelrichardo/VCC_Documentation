@@ -12,7 +12,7 @@ Di dalam repository ini terdapat implementasi deployment server, konfigurasi lay
 
 <p align="center">
   <a href="https://youtu.be/WtEJ1XXCuhk">
-    <img src="https://img.youtube.com/vi/WtEJ1XXCuhk/hqdefault.jpg" width="400">
+    <img src="https://img.youtube.com/vi/WtEJ1XXCuhk/hqdefault.jpg" width="500">
   </a>
 </p>
 
@@ -23,7 +23,11 @@ https://youtu.be/WtEJ1XXCuhk
 
 ## 🌐 Tugas 2 — Konfigurasi DNS Zone dan Pengujian menggunakan DIG/NSLOOKUP
 
-[![Tugas 2](https://img.youtube.com/vi/xowUBhMhkZs/maxresdefault.jpg)](https://youtu.be/xowUBhMhkZs)
+<p align="center">
+  <a href="https://youtu.be/xowUBhMhkZs">
+    <img src="https://img.youtube.com/vi/xowUBhMhkZs/hqdefault.jpg" width="500">
+  </a>
+</p>
 
 🎥 Link Video:  
 https://youtu.be/xowUBhMhkZs
@@ -32,7 +36,11 @@ https://youtu.be/xowUBhMhkZs
 
 ## ⚙️ Tugas 3 — Demonstrasi Akses cPanel dan Deploy Website Statis
 
-[![Tugas 3](https://img.youtube.com/vi/THk_4-osNQg/maxresdefault.jpg)](https://youtu.be/THk_4-osNQg)
+<p align="center">
+  <a href="https://youtu.be/THk_4-osNQg">
+    <img src="https://img.youtube.com/vi/THk_4-osNQg/hqdefault.jpg" width="500">
+  </a>
+</p>
 
 🎥 Link Video:  
 https://youtu.be/THk_4-osNQg
